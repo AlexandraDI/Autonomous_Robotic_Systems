@@ -1,4 +1,4 @@
-# [Autonomous Robotic Systems](https://github.com/AlexandraDI/Autonomous_Robotic_Systems)
+# Autonomous Robotic Systems
 
 Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 Contributors: Gianluca Vico.
