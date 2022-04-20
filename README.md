@@ -3,7 +3,7 @@
 Implementation of 5 Assignments for the course Autonomous Robotic Systems.
 Contributors: Gianluca Vico.
 
-* [Task 1](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment1): Test a Swarm Intelligence algorithm on Benchmark Functions.
+* [Task 1](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/tree/main/Assignment1){:target="_blank" rel="noopener"}: Test a Swarm Intelligence algorithm on Benchmark Functions.
 Description of the task [here.](https://github.com/AlexandraDI/Autonomous_Robotic_Systems/blob/main/Assignment1/02d%20ARS%20-%20Assignment%20Swarm%20Intelligence.pdf)
 
 ![zigzag](./ezgif-2-e004d3102f.gif)
